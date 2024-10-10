@@ -2,6 +2,8 @@
 
 PyAsteroids is a classic asteroid-shooter game built in Python using the Pygame library. Players control a spaceship navigating an asteroid field, dodging and shooting asteroids while aiming for a high score. The game offers simple, arcade-style fun reminiscent of the original **Asteroids** game from the 80s.
 
+![ss](https://github.com/user-attachments/assets/f6da0749-3798-4121-9754-e7c4a6d667da)
+
 ### Features
 
 - **Spaceship Movement**: Use "WASD" keys to maneuver and avoid asteroids.
